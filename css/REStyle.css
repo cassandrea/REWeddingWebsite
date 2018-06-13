@@ -1,0 +1,69 @@
+html{
+    width: 100%;
+    height: 100%; 
+}
+body{
+    font-family: 'Work Sans', sans-serif;   
+    color: #5A2E25;
+    background: #ECECEA;
+    background-image: url(../img/DistressedWood.jpeg);
+    background-size: 140%;
+    position: relative;
+    width: 100%;
+    height: 100%;  
+}
+h1{
+    font-family: 'Over the Rainbow', cursive;
+    font-size: 4.5em;
+    text-shadow: 1px 1px rgba(0, 0, 0, .16);
+    color: #821C05;
+}
+h2{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 2em;
+    color: #5A2E25;
+}
+h3{
+    font-family: 'Over the Rainbow', cursive;
+    font-size: 3em;
+    text-shadow: 1px 1px rgba(0, 0, 0, .16);
+    color: #821C05;
+}
+h4{
+
+}
+h5{
+
+}
+h6{
+
+}
+a{color: #5A2E25;
+
+}
+
+.content-section {
+    padding: 20px;
+    background: #ECECEA;
+    border:none;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px 0 rgba(130, 28, 5, 0.16), 0 2px 10px 0 rgba(130, 28, 5, 0.12);}
+.circular--square {
+    border-radius: 50%;
+    }
+.landing{
+    padding: 50px;} 
+.picture{
+    background: #ffffff;
+    border: thick solid #ffffff;
+    box-shadow: 0 2px 5px 0 rgba(130, 28, 5, 0.16), 0 2px 10px 0 rgba(130, 27, 4, 0.12);
+    padding-top: 0px; 
+    max-width: 110%;
+    height: auto;
+    position:relative;}
+.light-background{
+    background: #ECECEA;}
+.red-container {
+    background: #821C05;
+    position: relative;
+    z-index: 1;}
